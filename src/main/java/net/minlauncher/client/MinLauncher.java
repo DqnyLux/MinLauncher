@@ -32,7 +32,7 @@ public class MinLauncher implements ClientModInitializer {
         cosmeticsManager.init();
         badgeManager.init();
 
-        // Cargar configuración persistidaf (.minecraft/minlauncher/config.json)
+        // Cargar configuración persistidaf (.msinecraft/minlauncher/config.json)
         configManager.loadConfig();
 
         // Guardar en salida
