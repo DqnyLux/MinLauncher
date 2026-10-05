@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.fabricmc.fabric-api:fabric-particles-v1:5.0.15+b61fef434c" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.fabricmc.fabric-api" artifactId="fabric-particles-v1" version="5.0.15+b61fef434c" baseVersion="5.0.15+b61fef434c" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-particles-v1/5.0.15+b61fef434c/e9659d152cefb7255056f432234a11621ab00945/fabric-particles-v1-5.0.15+b61fef434c.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-particles-v1/5.0.15+b61fef434c/a18e27c94363b47bcdb14fbaec8df0c180d703b2/fabric-particles-v1-5.0.15+b61fef434c-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

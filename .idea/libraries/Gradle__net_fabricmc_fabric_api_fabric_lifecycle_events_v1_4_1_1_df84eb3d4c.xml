@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.fabricmc.fabric-api:fabric-lifecycle-events-v1:4.1.1+df84eb3d4c" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.fabricmc.fabric-api" artifactId="fabric-lifecycle-events-v1" version="4.1.1+df84eb3d4c" baseVersion="4.1.1+df84eb3d4c" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-lifecycle-events-v1/4.1.1+df84eb3d4c/2b9fe06c9552e45f03c18d177c8c71e879655eb/fabric-lifecycle-events-v1-4.1.1+df84eb3d4c.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-lifecycle-events-v1/4.1.1+df84eb3d4c/d2dc9b24792a241986567e4758c685b57dd64a7/fabric-lifecycle-events-v1-4.1.1+df84eb3d4c-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

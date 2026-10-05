@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.minlauncher.client.mixin",
+  "mixins": [
+  ],
+  "client": [
+    "AbstractButtonMixin",
+    "AvatarRendererMixin",
+    "CameraMixin",
+    "ConnectScreenMixin",
+    "GuiMixin",
+    "KeyboardHandlerMixin",
+    "LevelLoadingScreenMixin",
+    "LoadingOverlayMixin",
+    "MinecraftMixin",
+    "MinecraftScreenSwapMixin",
+    "PlayerTabOverlayMixin",
+    "ScreenDecorationMixin",
+    "WindowTitleMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

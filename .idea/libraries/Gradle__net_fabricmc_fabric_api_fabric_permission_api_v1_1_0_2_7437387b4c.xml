@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.fabricmc.fabric-api:fabric-permission-api-v1:1.0.2+7437387b4c" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.fabricmc.fabric-api" artifactId="fabric-permission-api-v1" version="1.0.2+7437387b4c" baseVersion="1.0.2+7437387b4c" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-permission-api-v1/1.0.2+7437387b4c/6da6d06e2f6315df3f265a302c0c7726080f3b92/fabric-permission-api-v1-1.0.2+7437387b4c.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-permission-api-v1/1.0.2+7437387b4c/e30d86695f6ba07abf6ca94c3a23010fcfabc205/fabric-permission-api-v1-1.0.2+7437387b4c-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

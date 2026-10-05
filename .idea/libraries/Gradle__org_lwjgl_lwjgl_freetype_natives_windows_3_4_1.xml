@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.lwjgl:lwjgl-freetype:natives-windows:3.4.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.lwjgl" artifactId="lwjgl-freetype" version="3.4.1" baseVersion="3.4.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-freetype/3.4.1/32fc9cfd236aca5433d53af78bfb15f1b4c1103e/lwjgl-freetype-3.4.1-natives-windows.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-freetype/3.4.1/60379db97116ee67fffbae0122b22d189fd2a4a/lwjgl-freetype-3.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

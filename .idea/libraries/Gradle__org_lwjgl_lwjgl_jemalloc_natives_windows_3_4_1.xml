@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.lwjgl:lwjgl-jemalloc:natives-windows:3.4.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.lwjgl" artifactId="lwjgl-jemalloc" version="3.4.1" baseVersion="3.4.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.4.1/70db8048d1aca8a6365f46f9963b8d6cd77b9e94/lwjgl-jemalloc-3.4.1-natives-windows.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.4.1/44c0e97ab159e7f0087217629ff87ae3283307d0/lwjgl-jemalloc-3.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "minlauncher",
+  "version": "1.0.0",
+  "name": "MinLauncher Client",
+  "description": "Cliente personalizado de alto rendimiento para PvP y Survival con cosmeticos e insignias.",
+  "authors": [
+    "MinLauncher Team"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/minlauncher/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.minlauncher.client.MinLauncher"
+    ]
+  },
+  "mixins": [
+    "minlauncher.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.1.2",
+    "java": ">=25"
+  }
+}

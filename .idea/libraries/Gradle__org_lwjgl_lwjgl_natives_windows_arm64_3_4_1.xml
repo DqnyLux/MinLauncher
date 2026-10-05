@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.lwjgl:lwjgl:natives-windows-arm64:3.4.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.lwjgl" artifactId="lwjgl" version="3.4.1" baseVersion="3.4.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.4.1/d1d3a7052da47ccde2a5fdf3a1bd45d801c3157c/lwjgl-3.4.1-natives-windows-arm64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.4.1/424efe3b0b8045fbb68fb888e65726d5e917b23c/lwjgl-3.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

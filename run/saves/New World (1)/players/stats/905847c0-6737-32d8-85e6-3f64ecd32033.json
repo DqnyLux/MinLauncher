@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 1876,
+      "minecraft:time_since_rest": 5366,
+      "minecraft:walk_one_cm": 556,
+      "minecraft:total_world_time": 5541,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 4897,
+      "minecraft:play_time": 5366,
+      "minecraft:jump": 18,
+      "minecraft:time_since_death": 5366
+    },
+    "minecraft:used": {
+      "minecraft:copper_chestplate": 1,
+      "minecraft:copper_helmet": 1
+    }
+  },
+  "DataVersion": 4790
+}

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.fabricmc.fabric-api:fabric-screen-api-v1:5.1.0+981dd9b24c" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.fabricmc.fabric-api" artifactId="fabric-screen-api-v1" version="5.1.0+981dd9b24c" baseVersion="5.1.0+981dd9b24c" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-screen-api-v1/5.1.0+981dd9b24c/bef364518a83e916a8c24b8d39b9eb10e245e0e2/fabric-screen-api-v1-5.1.0+981dd9b24c.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.fabricmc.fabric-api/fabric-screen-api-v1/5.1.0+981dd9b24c/124c5e2da928be52095b1f3a6259be1b208cac05/fabric-screen-api-v1-5.1.0+981dd9b24c-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

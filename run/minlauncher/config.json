@@ -1,0 +1,211 @@
+{
+  "modules": {
+    "Keystrokes": {
+      "enabled": true,
+      "keybind": 0,
+      "x": 420,
+      "y": 5,
+      "settings": {
+        "Fondo": true,
+        "Borde Redondo": true,
+        "Color Texto": {
+          "color": -1,
+          "rainbow": false
+        },
+        "Escala": 1.0,
+        "Mostrar Ratón": true,
+        "Mostrar Espacio": true
+      }
+    },
+    "CPS Counter": {
+      "enabled": true,
+      "keybind": 0,
+      "x": 10,
+      "y": 185,
+      "settings": {
+        "Fondo": true,
+        "Borde Redondo": true,
+        "Color Texto": {
+          "color": -1,
+          "rainbow": false
+        },
+        "Escala": 1.0
+      }
+    },
+    "FPS Display": {
+      "enabled": true,
+      "keybind": 0,
+      "x": 10,
+      "y": 100,
+      "settings": {
+        "Fondo": true,
+        "Borde Redondo": true,
+        "Color Texto": {
+          "color": -1,
+          "rainbow": false
+        },
+        "Escala": 1.0
+      }
+    },
+    "Armor Status": {
+      "enabled": true,
+      "keybind": 0,
+      "x": 10,
+      "y": 30,
+      "settings": {
+        "Fondo": true,
+        "Borde Redondo": true,
+        "Color Texto": {
+          "color": -1,
+          "rainbow": false
+        },
+        "Escala": 1.4
+      }
+    },
+    "SpeedMeter": {
+      "enabled": true,
+      "keybind": 0,
+      "x": 10,
+      "y": 120,
+      "settings": {
+        "Fondo": true,
+        "Borde Redondo": true,
+        "Color Texto": {
+          "color": -1,
+          "rainbow": false
+        },
+        "Escala": 1.0
+      }
+    },
+    "Coords": {
+      "enabled": true,
+      "keybind": 0,
+      "x": 10,
+      "y": 140,
+      "settings": {
+        "Fondo": true,
+        "Borde Redondo": true,
+        "Color Texto": {
+          "color": -1,
+          "rainbow": false
+        },
+        "Escala": 1.0
+      }
+    },
+    "Direction": {
+      "enabled": true,
+      "keybind": 0,
+      "x": 10,
+      "y": 160,
+      "settings": {
+        "Fondo": true,
+        "Borde Redondo": true,
+        "Color Texto": {
+          "color": -1,
+          "rainbow": false
+        },
+        "Escala": 1.0
+      }
+    },
+    "PotionStatus": {
+      "enabled": true,
+      "keybind": 0,
+      "x": 120,
+      "y": 120,
+      "settings": {
+        "Fondo": true,
+        "Borde Redondo": true,
+        "Color Texto": {
+          "color": -1,
+          "rainbow": false
+        },
+        "Escala": 1.0
+      }
+    },
+    "ToggleSprint": {
+      "enabled": false,
+      "keybind": 86,
+      "settings": {}
+    },
+    "KeepSprint": {
+      "enabled": false,
+      "keybind": 0,
+      "settings": {}
+    },
+    "Fullbright": {
+      "enabled": true,
+      "keybind": 66,
+      "settings": {
+        "Brillo": 1.0
+      }
+    },
+    "Zoom": {
+      "enabled": true,
+      "keybind": 67,
+      "settings": {
+        "Nivel Zoom": 3.0,
+        "Cámara Cinemática": true
+      }
+    },
+    "AutoTool": {
+      "enabled": true,
+      "keybind": 0,
+      "settings": {}
+    },
+    "Shaders (Iris)": {
+      "enabled": true,
+      "keybind": 0,
+      "settings": {
+        "Perfil Calidad": "Ultra",
+        "Sombras Dinámicas": true,
+        "Escala de Render": 2.0,
+        "Profundidad de Mano": true
+      }
+    },
+    "Modelos EMF": {
+      "enabled": true,
+      "keybind": 0,
+      "settings": {
+        "Animaciones Custom": true,
+        "Física de Entidades": true,
+        "Optimización Oclusión": true
+      }
+    },
+    "Texturas ETF": {
+      "enabled": true,
+      "keybind": 0,
+      "settings": {
+        "Texturas Emisivas": true,
+        "Variantes de Mobs": true,
+        "Texturas Conectadas": true
+      }
+    },
+    "NametagPreview": {
+      "enabled": true,
+      "keybind": 0,
+      "settings": {
+        "Mostrar HP": true,
+        "Mostrar Insignias": true,
+        "Fondo Translúcido": true
+      }
+    },
+    "Previsualizer": {
+      "enabled": true,
+      "keybind": 0,
+      "settings": {
+        "Modo Inspector": "Completo",
+        "Ver Coordenadas": true,
+        "Durabilidad de Ítems": true
+      }
+    }
+  },
+  "cosmetics": {
+    "cape_galaxy": true,
+    "cape_lunar_style": false,
+    "cape_fire": false,
+    "wings_dragon": true,
+    "wings_angel": false,
+    "bandana_ninja": true,
+    "hat_crown": false
+  }
+}

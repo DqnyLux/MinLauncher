@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:diamond_axe": 3,
+      "minecraft:diamond_shovel": 5
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 10
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 883,
+      "minecraft:time_since_rest": 740,
+      "minecraft:fall_one_cm": 775,
+      "minecraft:walk_one_cm": 1282,
+      "minecraft:total_world_time": 1783,
+      "minecraft:fly_one_cm": 4575,
+      "minecraft:play_time": 740,
+      "minecraft:jump": 27,
+      "minecraft:time_since_death": 740
+    }
+  },
+  "DataVersion": 4790
+}
